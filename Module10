@@ -156,3 +156,19 @@ D. Resumes routing traffic when manually restarted
 E. Routes traffic to a healthy target
 
 Answer: [ A ] , [ C ] , [ E ]  
+
+Q10. What are the three types of load balancers that Elastic Load Balancing offers?
+
+A. Internet Load Balancer
+
+B. Application Load Balancer
+
+C. Network Load Balancer
+
+D. Compute Load Balancer
+
+E. Classic Load Balancer
+
+F. Auto Scaling Load Balancer
+
+Answer: [ B ], [ D ], [ E ]
